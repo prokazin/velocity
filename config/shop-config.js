@@ -4,12 +4,12 @@
 
 const SHOP_CONFIG = {
     // === ОСНОВНАЯ ИНФОРМАЦИЯ ===
-    shopTitle: "СтройМаркет Pro",
-    shopDescription: "Качественные строительные материалы",
+    shopTitle: "VELO CITY",
+    shopDescription: "Качественные велосипеды",
     
     // === ЛОГОТИП ===
     // Укажите путь к вашему логотипу или URL изображения
-    logoPath: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=100&h=100&fit=crop&crop=center",
+    logoPath: "",
     
     // === ЦВЕТА МАГАЗИНА ===
     colors: {
@@ -29,7 +29,7 @@ const SHOP_CONFIG = {
     contact: {
         phone: "+7 (900) 123-45-67",
         email: "info@stroymarket.ru",
-        address: "г. Москва, ул. Строительная, 123"
+        address: "г. Благовещенск, ул. Краснофлотская, 63"
     },
     
     // === НАСТРОЙКИ ДОСТАВКИ ===
